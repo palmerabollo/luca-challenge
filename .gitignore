@@ -1,4 +1,8 @@
 .ipynb_checkpoints
 
+# big raw files
+code/data/datenspende_btw17_public_data_*.json
+
 # calculated files
 code/data_clean/all_people_hap.csv
+code/data/people_datenspende_btw17_public_data_*.tsv

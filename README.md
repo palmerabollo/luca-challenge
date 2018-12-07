@@ -26,3 +26,5 @@ docker run --rm -p 8888:8888 -v $(pwd):/notebook luca
 It will show you a token. Open http://localhost:8888, enter the token, and play any of the available notebooks:
 - format_data.ipynb: prepares data to be analyzed (not mandatory)
 - study_data.ipynb: analyzes data
+
+Note: 32GB RAM recommended.
