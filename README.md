@@ -27,4 +27,4 @@ It will show you a token. Open http://localhost:8888, enter the token, and play 
 - format_data.ipynb: prepares data to be analyzed (not mandatory)
 - study_data.ipynb: analyzes data
 
-Note: 32GB RAM recommended.
+Note: 32-64GB RAM recommended.
